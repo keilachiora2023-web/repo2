@@ -1,2 +1,2 @@
 # repo2
-practico
+practica de Github
